@@ -1,0 +1,9 @@
+  =>  Template Name    : vidhya mall
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  :vasudev vyas
+
+  =>  Author Website   : ????? abhi bani nahi hai.
+
+  =>  About vasudev vyas : vasudev vyas is one of the top creators and publishers of HTML landing pages, HTML email templates and HTML snippets in the world. 
